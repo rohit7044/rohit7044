@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohit Das
 - 👀 I’m interested in Coding and Brazilian Jiu-jitsu
 - 🌱 I’m currently learning Computer Graphics
-- 💞️ I’m looking to collaborate on Depth Estimation
+- 💞️ I’m looking to collaborate on Model Appearance
 - 📫 How to reach me rdas.879@gmail.com
 
 <!---
