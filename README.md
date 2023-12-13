@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Das
 - 👀 I’m interested in Coding and Research
-- 🌱 I’m currently learning 3D Face Reconstruction and Neural Fields
+- 🌱 I’m currently learning Neural Rendering, NeRF, ControlNet
 - 💞️ I’m looking to collaborate on Generative Models
 - 📫 How to reach me- rdas.879@gmail.com
 - Mantaining clean code is a trait of a healthy developer
